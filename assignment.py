@@ -1,1 +1,1 @@
-print ("me i dont know oh")
+print ("know oh")
